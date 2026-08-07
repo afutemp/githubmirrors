@@ -1,0 +1,13 @@
+# afumirrors 镜像清单（声明式配置）
+#
+# 添加新镜像：复制下面一段 [[mirror]]，改三处即可：
+#   name   = mirrors/ 下的目录名，用 owner-repo 形式保留来源
+#   source = 原始仓库地址
+#   branch = 默认分支（脚本会同步它）
+#   tags   = 额外要归档的标签，默认留空 []
+
+[[mirror]]
+name   = "mattpocock-skills"
+source = "https://github.com/mattpocock/skills.git"
+branch = "main"
+tags   = []

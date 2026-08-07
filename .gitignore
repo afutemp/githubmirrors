@@ -1,0 +1,8 @@
+# 系统垃圾
+.DS_Store
+*.tmp
+*.swp
+
+# 镜像内容本身需要提交，请勿忽略 mirrors/。
+# 若某些镜像含巨大的生成产物需要排除，可按路径单独加白，例如：
+# mirrors/*/branches/*/node_modules/
