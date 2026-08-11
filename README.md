@@ -21,3 +21,4 @@ mirrors/<owner-repo>/        # 一个镜像 = 一个目录，命名保留来源
 | 镜像 | 来源 | 同步引用 |
 |---|---|---|
 | `mattpocock-skills` | mattpocock/skills | branches/main |
+| `anthropics-skills` | anthropics/skills | branches/main |

@@ -11,3 +11,9 @@ name   = "mattpocock-skills"
 source = "https://github.com/mattpocock/skills.git"
 branch = "main"
 tags   = []
+
+[[mirror]]
+name   = "anthropics-skills"
+source = "https://github.com/anthropics/skills.git"
+branch = "main"
+tags   = []
