@@ -17,3 +17,9 @@ name   = "anthropics-skills"
 source = "https://github.com/anthropics/skills.git"
 branch = "main"
 tags   = []
+
+[[mirror]]
+name   = "wshobson-agents"
+source = "https://github.com/wshobson/agents.git"
+branch = "main"
+tags   = []
