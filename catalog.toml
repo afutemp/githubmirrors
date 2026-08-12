@@ -23,3 +23,9 @@ name   = "wshobson-agents"
 source = "https://github.com/wshobson/agents.git"
 branch = "main"
 tags   = []
+
+[[mirror]]
+name   = "alchaincyf-darwin-skill"
+source = "https://github.com/alchaincyf/darwin-skill.git"
+branch = "master"
+tags   = []

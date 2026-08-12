@@ -23,3 +23,4 @@ mirrors/<owner-repo>/        # 一个镜像 = 一个目录，命名保留来源
 | `mattpocock-skills` | mattpocock/skills | branches/main |
 | `anthropics-skills` | anthropics/skills | branches/main |
 | `wshobson-agents` | wshobson/agents | branches/main |
+| `alchaincyf-darwin-skill` | alchaincyf/darwin-skill | branches/master |
